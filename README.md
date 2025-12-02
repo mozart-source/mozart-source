@@ -1,6 +1,7 @@
 ## Welcome 👋
+
 <div align="center">
-## Mozart of full-stack development
+## 🎻 Mozart of full-stack development
 <br/>
  I'm a full-stack architect who approaches development like a composer—orchestrating multiple technologies to create harmonious digital solutions. I specialize in selecting the perfect technology for each challenge, from high-performance systems to elegant user experiences.
  <br/>
