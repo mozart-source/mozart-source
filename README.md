@@ -21,7 +21,6 @@
 
 ## 📊 GitHub Analytics
 <br/>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloby22&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=20&langs_count=6" />
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bloby22&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&border_radius=20&height=300" />
 <br/>
 </div>
